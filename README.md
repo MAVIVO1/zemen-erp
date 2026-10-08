@@ -1,0 +1,2 @@
+# zemen-erp
+Zemen ERP is an enterprise resource planning platform whose main module is Payroll and HR, built with MongoDB, Express, React (Vite), and Node.js. It manages employees, departments, attendance, leave, and loans, runs payroll with a calculation engine based on Ethiopian PAYE, pension, and overtime rules, and generates PDF payslips. Access is protected by JWT authentication and role-based permissions, and an audit log tracks changes. The demo data is set up for a fictional client, Tana Textile & Garment PLC in Bahir Dar.
